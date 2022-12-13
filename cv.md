@@ -68,20 +68,20 @@ var fib = function(number) {
 ## Work experience:
 * Project Mesto
 
-  [GitHub:](https://github.com/lesjok/react-mesto-api-full/)
+  [GitHub](https://github.com/lesjok/react-mesto-api-full/)
   
-  [Link:](http://1137637-cj55507.tw1.ru/)
+  [Link](http://1137637-cj55507.tw1.ru/)
   
 
 * Project Explore of movies
 
     GitHub: 
   
-        [frontend:](https://github.com/lesjok/movies-explorer-frontend/)
+    [frontend](https://github.com/lesjok/movies-explorer-frontend/)
+
+    [backend](https://github.com/lesjok/movies-explorer-api/)
     
-        [backend:](https://github.com/lesjok/movies-explorer-api/)
-    
-    [Link:](https://movies.04.pe/)
+    [Link](https://movies.04.pe/)
   
 ## Courses:
 * Course Web-developer on the Yandex.Practicum (completed)
