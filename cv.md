@@ -37,7 +37,7 @@ In my free time I like to read books and play the piano.
 
 * VS Code
 
-*Adobe Photoshop, Figma
+* Adobe Photoshop, Figma
 
 ## Code example:
 ***Fibonacci Number from LEETCODE***
