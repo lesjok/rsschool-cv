@@ -21,21 +21,21 @@ In my free time I like to read books and play the piano.
 
 ## Skills and Proficiency:
 
-*HTML5, CSS3
+* HTML5, CSS3
 
-*JavaScript Basics
+* JavaScript Basics
 
-*React
+* React
 
-*CASS/SCSS
+* CASS/SCSS
 
-*Webpack
+* Webpack
 
-*BEM
+* BEM
 
-*Git, GitHub
+* Git, GitHub
 
-*VS Code
+* VS Code
 
 *Adobe Photoshop, Figma
 
@@ -66,37 +66,39 @@ var fib = function(number) {
 ```
 
 ## Work experience:
-*Project Mesto
+* Project Mesto
 
-  [+GitHub:] (https://github.com/lesjok/react-mesto-api-full/)
+  [GitHub:](https://github.com/lesjok/react-mesto-api-full/)
   
-  [+Link:] (http://1137637-cj55507.tw1.ru/)
+  [Link:](http://1137637-cj55507.tw1.ru/)
   
 
-*Project Explore of movies
+* Project Explore of movies
 
-  +GitHub: 
+    GitHub: 
   
-    [-frontend:] (https://github.com/lesjok/movies-explorer-frontend/)
+        [frontend:](https://github.com/lesjok/movies-explorer-frontend/)
     
-    [-backend:] (https://github.com/lesjok/movies-explorer-api/)
+        [backend:](https://github.com/lesjok/movies-explorer-api/)
     
-  [+Link:] (https://movies.04.pe/)
+    [Link:](https://movies.04.pe/)
   
 ## Courses:
-*Course Web-developer on the Yandex.Practicum (completed)
+* Course Web-developer on the Yandex.Practicum (completed)
 
-*HTML and CSS simulators on the HTML-Academy (completed)
+* HTML and CSS simulators on the HTML-Academy (completed)
 
-*Website development: CSS layout and JavaScript programming on the Synergy University(completed)
+* Website development: CSS layout and JavaScript programming on the Synergy University(completed)
 
-*JavaScript Manual on learnjavascript.ru (in progress)
+* JavaScript Manual on learnjavascript.ru (in progress)
 
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages:
-*Russian - Native
+* Russian - Native
 
-*![English - Intermediate](./image.png "according to the online test at EFSet")
+* English - Intermediate
 
-*German - Basic
+![English - Intermediate](./image.png "according to the online test at EFSet")
+
+* German - Basic
