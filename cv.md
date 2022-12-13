@@ -97,6 +97,6 @@ var fib = function(number) {
 ## Languages:
 *Russian - Native
 
-*![English - Intermediate](./pictures/image.png "according to the online test at EFSet")
+*![English - Intermediate](./image.png "according to the online test at EFSet")
 
 *German - Basic
